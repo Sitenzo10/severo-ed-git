@@ -1,4 +1,7 @@
 # Proyecto 03
 
-comentario numero 1
+primer comentario
+
+...
 segundo comentario
+...
